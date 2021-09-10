@@ -42,3 +42,5 @@ def format_price(price):
     return (f" Цена: {price} руб.")
 result1 = format_price(56.24)
 print(result1)
+
+print(result1)
